@@ -16,6 +16,8 @@ This project involved a comprehensive analysis of bike sales data to identify ke
 4. **Occupation and Purchase Behavior:** A bar chart revealed professionals as the largest group of bike purchasers, with clerical workers being the least likely.
 5. **Children and Purchase Behavior:** A pie chart showed that customers with no children were the largest segment of bike purchasers.
 
+<img src="https://drive.google.com/uc?id=1IzBuzSFBs8p8uOHxin2Ug-mFbFL365mk" alt="bike sale dashboard" width="700" height="400">
+
 **Insights Gained:**
 - **Bike Purchase by Children Count:** A decline in bike purchases was observed with an increase in the number of children.
 - **Purchase Count by Occupation:** Professionals dominate bike purchases, highlighting potential unmet needs in the manual worker segment.
