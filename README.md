@@ -27,3 +27,5 @@ This project involved a comprehensive analysis of bike sales data to identify ke
 
 **Strategic Implications:**
 These insights can guide marketing strategies, such as targeting individuals with no children or engaging manual workers and those with longer commutes. Understanding income dynamics can also assist in pricing strategies and product placement. The use of pivot tables, charts, and slicers provided a dynamic and detailed view of the data, enabling informed decision-making for targeting and customer engagement in the bike market.
+
+For any feedback, feel free to contact me at rohitpaul09@gmail.com.
