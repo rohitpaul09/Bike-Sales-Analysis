@@ -16,7 +16,10 @@ This project involved a comprehensive analysis of bike sales data to identify ke
 4. **Occupation and Purchase Behavior:** A bar chart revealed professionals as the largest group of bike purchasers, with clerical workers being the least likely.
 5. **Children and Purchase Behavior:** A pie chart showed that customers with no children were the largest segment of bike purchasers.
 
-<img src="https://drive.google.com/uc?id=1IzBuzSFBs8p8uOHxin2Ug-mFbFL365mk" alt="bike sale dashboard" width="700" height="400">
+<img src="https://drive.google.com/uc?id=1rbTjBrHtx_OlcwtROEO3bs7CmurKTP5V" alt="bike dashboard" width="700" height="400">
+
+**Dashboard Enhancement with 'Reset' Button:**
+To augment the user experience on the dashboard, a 'Reset' button was implemented through a macro. This button is specifically programmed to reset all slicers, swiftly reverting them to their original, unfiltered state. To ensure seamless functionality and synchronization across the dashboard, a 1-second delay was strategically incorporated into the macro using VBA. This delay allows for the full application of slicer changes, thereby enhancing the dashboard's overall interactivity and efficiency in data analysis. 
 
 **Insights Gained:**
 - **Bike Purchase by Children Count:** A decline in bike purchases was observed with an increase in the number of children.
