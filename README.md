@@ -2,6 +2,8 @@
 
 This project involved a comprehensive analysis of bike sales data to identify key consumer trends and preferences in the bike market. The data, structured across 13 columns, provided a detailed view of customer demographics, socioeconomic status, and purchasing behaviors.
 
+<img src="https://drive.google.com/uc?id=1rbTjBrHtx_OlcwtROEO3bs7CmurKTP5V" alt="bike dashboard" width="700" height="400">
+
 **Data Preparation and Transformation:**
 1. **Duplicate Removal:** We began by removing duplicates, eliminating 26 duplicate entries and retaining 1000 unique records.
 2. **Data Cleaning:** The 'Marital Status' and 'Gender' columns were standardized for clarity ('M' to 'Married', 'S' to 'Single', 'F' to 'Female', and 'M' to 'Male').
@@ -15,8 +17,6 @@ This project involved a comprehensive analysis of bike sales data to identify ke
 3. **Age Group and Purchase Behavior:** Analysis indicated that middle-aged customers were most likely to purchase bikes, with adolescents being the least likely.
 4. **Occupation and Purchase Behavior:** A bar chart revealed professionals as the largest group of bike purchasers, with clerical workers being the least likely.
 5. **Children and Purchase Behavior:** A pie chart showed that customers with no children were the largest segment of bike purchasers.
-
-<img src="https://drive.google.com/uc?id=1rbTjBrHtx_OlcwtROEO3bs7CmurKTP5V" alt="bike dashboard" width="700" height="400">
 
 **Dashboard Enhancement with 'Reset' Button:**
 
